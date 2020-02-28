@@ -7,5 +7,5 @@ Tale readme je pač readme
    2. liza
 2. NeČlani
    1. tvrdko
-   2. lumpič
+   2. lumpič000000
 
