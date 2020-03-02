@@ -11,6 +11,7 @@ Tale readme je pač readme
 
    3. garto
    4. haver
+   5. cedo
 
 
 Spodaj je opisano zaporedje nalog. Trenutna naloga je označena.
