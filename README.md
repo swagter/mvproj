@@ -8,6 +8,7 @@ Tale readme je pač readme
 2. NeČlani
    1. tvrdko
    2. lumpič
+   3. haver
 
 Spodaj je opisano zaporedje nalog. Trenutna naloga je označena.
 
