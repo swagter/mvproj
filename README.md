@@ -7,14 +7,16 @@ Tale readme je pač readme
    2. liza
 2. NeČlani
    1. tvrdko
-   2. lumpič
+   2. lumpič000000
 
    3. garto
    4. haver
+
    5. timzolin
    6. savlar🥓
    5. cedo
 
+   5. Maj Kas
 
 
 
