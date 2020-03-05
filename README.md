@@ -17,6 +17,7 @@ Tale readme je pač readme
    5. cedo
 
    5. Maj Kas
+   6. Bor Tomšič
 
 
 
