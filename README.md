@@ -17,6 +17,9 @@ Tale readme je pač readme
    5. cedo
    5. Maj Kas
 
+
+   6. Jakob Pezdirc
+
    7. cule
 
    
@@ -25,6 +28,7 @@ Tale readme je pač readme
    7. KuharTim 
 
    6. FranuloTuđiman
+
 
 
 
