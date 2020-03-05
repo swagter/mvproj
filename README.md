@@ -11,14 +11,27 @@ Tale readme je pač readme
 
    3. garto
    4. haver
-
+   69. xXxH3NTAIg0dxXx
    5. timzolin
-   6. savlar🥓
+   6. savlar
    5. cedo
-
    5. Maj Kas
 
+
    6. Jakob Pezdirc
+
+   7. cule
+
+   
+   7. J4ncHy
+
+   7. KuharTim 
+
+   6. FranuloTuđiman
+
+
+
+
 
 Spodaj je opisano zaporedje nalog. Trenutna naloga je označena.
 
