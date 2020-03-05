@@ -16,6 +16,7 @@ Tale readme je pač readme
    6. savlar
    5. cedo
    5. Maj Kas
+   6. Ubuntar
 
    6. Bor Tomšič
 
