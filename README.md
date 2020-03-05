@@ -45,7 +45,7 @@ Naloge :
    pred pričetkom novega cikla, morate svoj github repo uskladiti z mojim; če se spomnite, je postopek naveden tule:
     na lokalnem računalniku:
     ```
-    git remote upstream https://github.com/serhio-w02(mvporj.git
+    git remote upstream https://github.com/serhio-w02/mvporj.git
     // preveri: git remote -v mora vsebovati upstream-e
     git fetch ustream
     git checkout master  // tega naredite v vsakem primeru, čeprav je to edini branch
