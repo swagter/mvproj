@@ -18,7 +18,7 @@ Tale readme je pač readme
 
    5. Maj Kas
 
-
+   6. Jakob Pezdirc
 
 Spodaj je opisano zaporedje nalog. Trenutna naloga je označena.
 
