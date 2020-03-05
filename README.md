@@ -17,7 +17,7 @@ Tale readme je pač readme
    5. cedo
 
    5. Maj Kas
-
+   6. Médo 🐻
 
 
 Spodaj je opisano zaporedje nalog. Trenutna naloga je označena.
