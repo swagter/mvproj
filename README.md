@@ -53,7 +53,7 @@ Naloge :
     git pull upstream master
     git remote remove upstream
     // preveri: git remote -v je sedaj brez upstream-ov
-    git push origin master
+    git push
     ```
    * nov razvojni del:
    
